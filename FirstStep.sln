@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers1To20", "Numbers1To20\Numbers1To20.csproj", "{F1D75FB3-6128-4873-B549-A76719FA0D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOf55Stars", "TriangleFrom55Stars\TriangleOf55Stars.csproj", "{65E8D34D-F482-4B28-8B94-B0A0F7BF442D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStep.HelloCSharp", "FirstStep.HelloCSharp\FirstStep.HelloCSharp.csproj", "{FE25EEA8-39AE-408D-9EEB-6B5C2CB9C1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D75FB3-6128-4873-B549-A76719FA0D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D75FB3-6128-4873-B549-A76719FA0D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D75FB3-6128-4873-B549-A76719FA0D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D75FB3-6128-4873-B549-A76719FA0D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E8D34D-F482-4B28-8B94-B0A0F7BF442D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E8D34D-F482-4B28-8B94-B0A0F7BF442D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E8D34D-F482-4B28-8B94-B0A0F7BF442D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E8D34D-F482-4B28-8B94-B0A0F7BF442D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE25EEA8-39AE-408D-9EEB-6B5C2CB9C1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE25EEA8-39AE-408D-9EEB-6B5C2CB9C1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE25EEA8-39AE-408D-9EEB-6B5C2CB9C1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE25EEA8-39AE-408D-9EEB-6B5C2CB9C1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

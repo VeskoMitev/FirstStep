@@ -1,0 +1,5 @@
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\TriangleFrom55Stars\bin\Debug\TriangleFrom55Stars.exe.config
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\TriangleFrom55Stars\bin\Debug\TriangleFrom55Stars.exe
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\TriangleFrom55Stars\bin\Debug\TriangleFrom55Stars.pdb
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\TriangleFrom55Stars\obj\Debug\TriangleFrom55Stars.exe
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\TriangleFrom55Stars\obj\Debug\TriangleFrom55Stars.pdb

@@ -1,0 +1,5 @@
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\Numbers1To20\bin\Debug\Numbers1To20.exe.config
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\Numbers1To20\bin\Debug\Numbers1To20.exe
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\Numbers1To20\bin\Debug\Numbers1To20.pdb
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\Numbers1To20\obj\Debug\Numbers1To20.exe
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\Numbers1To20\obj\Debug\Numbers1To20.pdb

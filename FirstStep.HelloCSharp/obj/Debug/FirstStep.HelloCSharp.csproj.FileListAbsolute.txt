@@ -1,0 +1,6 @@
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\FirstStep.HelloCSharp\bin\Debug\FirstStep.HelloCSharp.exe.config
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\FirstStep.HelloCSharp\bin\Debug\FirstStep.HelloCSharp.exe
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\FirstStep.HelloCSharp\bin\Debug\FirstStep.HelloCSharp.pdb
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\FirstStep.HelloCSharp\obj\Debug\FirstStep.HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\FirstStep.HelloCSharp\obj\Debug\FirstStep.HelloCSharp.exe
+c:\users\vesko\onedrive\документи\visual studio 2015\Projects\FirstStep\FirstStep.HelloCSharp\obj\Debug\FirstStep.HelloCSharp.pdb
